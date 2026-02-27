@@ -4,7 +4,7 @@ https://colab.research.google.com/drive/1GbOPQiWa3_6skBze6efhdiu_7I7IWgFl?usp=sh
 
 # 📈 Stock Prices Time Series Analysis
 
-A time series analysis project on S&P 500 stock prices data, focusing on trend detection, seasonal decomposition, and moving averages smoothing.
+A time series analysis project on AAPL stock prices data, focusing on trend detection, seasonal decomposition, and moving averages smoothing.
 
 ---
 
